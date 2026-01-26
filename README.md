@@ -4,19 +4,16 @@ I'm still a newbie in IT, but I already know a few things.
 
 I use arch btw😎
 
-# Hi, I'm DostavshikDiscomforta! 👋
+# Hi, It's kernelpanica! 👋
 
 
 ## 🔗 Links
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/HisMajestyArthas)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/kernelpanica)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/640131257233047562/)
 
 
-🧠 I'm currently learning C++ and Python🐍
-
-💬 There you cat contact me anytime https://t.me/HisMajestyArthas
-
+🧠 I'm currently learning Linux basics and cyber security 
 
 ## 🛠 Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,11 +21,11 @@ I use arch btw😎
 
 
 ## Stats
-![DD's GitHub stats](https://github-readme-stats.vercel.app/api?username=struder6&show_icons=true&theme=transparent)
+![kp's GitHub stats](https://github-readme-stats.vercel.app/api?username=struder6&show_icons=true&theme=transparent)
 
 ## Email ✉️ 
 In case your ass is too oficial for telegram:
 
-kernelpanic1488@gmail.com
+kernelpanica1488@gmail.com
 
 In case you want to recruit me as a developer, please contact me at telegram. If I'm not responding, comment any of my repo`s. Thanks!
