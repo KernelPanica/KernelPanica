@@ -28,4 +28,4 @@ In case your ass is too oficial for telegram:
 
 kernelpanica1488@gmail.com
 
-In case you want to recruit me as a developer, please contact me at telegram. If I'm not responding, comment any of my repo`s. Thanks!
+In case you want to recruit me, please contact me at discord. If I'm not responding, comment any of my repo`s. Thanks!
