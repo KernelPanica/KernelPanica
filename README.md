@@ -1,29 +1,20 @@
-
-## About The greatest of myselfs
-I'm still a newbie in IT, but I already know a few things.
-
-I use arch btw😎
-
-# Hi, It's kernelpanica! 👋
-
+### kernelpanica
 
 ## 🔗 Links
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/kernelpanica)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/640131257233047562/)
-
 
 🧠 I'm currently learning Linux basics and cyber security 
 
 ## 🛠 Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![](https://img.shields.io/badge/linux-intermediate-blue?logo=linux)
+![](https://img.shields.io/badge/mtuci--undergraduate-white.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzM5IiBoZWlnaHQ9IjMzOSIgdmlld0JveD0iMCAwIDMzOSAzMzkiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMjY3LjI1OSA3NC41OTY2TDE4NS42NyAzNC43MDVDMTc1LjQ1MiAyOS43MDg5IDE2My41NDggMjkuNzA4OSAxNTMuMzMgMzQuNzA1TDcxLjc0MTMgNzQuNTk2NkM2MS41MjI5IDc5LjU5MjcgNTQuMTAxNCA4OS4wNDEyIDUxLjU3NzcgMTAwLjI2N0wzMS40MjY5IDE4OS45MDNDMjguOTAzMiAyMDEuMTI5IDMxLjU1MTkgMjEyLjkxMSAzOC42MjMyIDIyMS45MTRMOTUuMDg0NCAyOTMuNzk2QzEwMi4xNTYgMzAyLjc5OSAxMTIuODggMzA4LjA0MiAxMjQuMjIyIDMwOC4wNDJIMjE0Ljc3OEMyMjYuMTIgMzA4LjA0MiAyMzYuODQ0IDMwMi43OTkgMjQzLjkxNiAyOTMuNzk2TDMwMC4zNzcgMjIxLjkxNEMzMDcuNDQ4IDIxMi45MTEgMzEwLjA5NyAyMDEuMTI5IDMwNy41NzMgMTg5LjkwM0wyODcuNDIyIDEwMC4yNjdDMjg0Ljg5OSA4OS4wNDEyIDI3Ny40NzcgNzkuNTkyNyAyNjcuMjU5IDc0LjU5NjZaTTE5OC45IDYuODEyODlDMTgwLjMyMSAtMi4yNzA5NiAxNTguNjc5IC0yLjI3MDk3IDE0MC4xIDYuODEyODlMNTguNTExMyA0Ni43MDQ0QzM5LjkzMjUgNTUuNzg4MyAyNi40Mzg5IDcyLjk2NzMgMjEuODUwMyA5My4zNzg2TDEuNjk5NSAxODMuMDE0Qy0yLjg4OTExIDIwMy40MjUgMS45MjY2OSAyMjQuODQ3IDE0Ljc4MzcgMjQxLjIxNkw3MS4yNDQ5IDMxMy4wOThDODQuMTAxOCAzMjkuNDY2IDEwMy42MDEgMzM5IDEyNC4yMjIgMzM5SDIxNC43NzhDMjM1LjM5OSAzMzkgMjU0Ljg5OCAzMjkuNDY2IDI2Ny43NTUgMzEzLjA5OEwzMjQuMjE2IDI0MS4yMTZDMzM3LjA3MyAyMjQuODQ3IDM0MS44ODkgMjAzLjQyNSAzMzcuMzAxIDE4My4wMTRMMzE3LjE1IDkzLjM3ODZDMzEyLjU2MSA3Mi45NjczIDI5OS4wNjggNTUuNzg4MyAyODAuNDg5IDQ2LjcwNDRMMTk4LjkgNi44MTI4OVoiIGZpbGw9IiMzMzI5NzQiLz4KPC9zdmc+Cg==)
 
 ## Stats
 ![kp's GitHub stats](https://github-readme-stats.vercel.app/api?username=struder6&show_icons=true&theme=transparent)
 
-## Email ✉️ 
+## Contacts 
 In case your ass is too oficial for telegram:
 
 kernelpanica1488@gmail.com
