@@ -13,8 +13,8 @@ I'm currently educating in Moscow Technical University of Connections and Inform
 
 ## Contacts 
 
-[![gmail](https://img.shields.io/badge/gmail-white?logo=google&logoColor=ff0000)](malito:kernelpanic1488@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-white?logo=google&logoColor=ff0000)](mailto:kernelpanic1488@gmail.com)
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/kernelpanica)
+[![telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=ffffff)](https://www.t.me/kernelpanica)
 
 In case you want to recruit me, please contact me at telegram channel's DM. If I'm not responding, comment any of my repo`s. Thanks!
